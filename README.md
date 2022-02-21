@@ -1,4 +1,4 @@
-# Unit 11 - Risky Business
+# Unit 11 - Risky Business (classification)
  
 ![Credit Risk](Images/credit-risk.jpg)
 
